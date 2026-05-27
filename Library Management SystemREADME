@@ -1,0 +1,39 @@
+# Library Management System
+
+A console-based Library Management System built in VB.NET 
+using Object-Oriented Programming (OOP) concepts.
+
+## Features
+- Add, search, and manage books
+- Student registration and management
+- Book issuing and returning
+- Automatic fine calculation for late returns
+- Account management
+- Menu-driven console interface
+
+## Technologies Used
+- VB.NET
+- Object-Oriented Programming (OOP)
+- Collections (Lists & Dictionaries)
+
+## OOP Concepts Applied
+- Classes and Objects
+- Encapsulation
+- Inheritance
+
+## Project Structure
+- `Book` class — manages book records
+- `Student` class — manages student data
+- `Account` class — handles account operations
+- `LibraryManagement` class — core library logic
+
+## How to Run
+1. Clone the repository
+2. Open the project in Visual Studio
+3. Build and run the solution
+
+## Author
+**Umer Ameer**  
+BS Software Engineering — 4th Semester  
+Islamia University Bahawalpur  
+umerameer596@gmail.com
